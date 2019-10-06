@@ -27,7 +27,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-weight: normal;
 	font-style: normal;
-	color: #909299
+	color: #909299;
 }
 .img {
 	max-width: 100%;
@@ -60,14 +60,17 @@ h6 {
 
 /* 2. header_css */
 
-
-
-
-
-
-
-
-
+#First_Section{}
+.Header_Section{}
+.container{}
+.row{}
+.transparent_header {
+	position: absolute;
+	left: 0;
+	right: 0;
+}
+.logo{}
+.header_btn{}
 
 /* 3. slider_css */
 /* 4. about_area_css */
