@@ -1,0 +1,78 @@
+/*
+Theme Name: APPRI
+Description: Appri PSD to HTML 
+Author: Freelancer DAUD
+Author URI: https://freelancerdaud.com
+Template: Appri
+Version: 1.0.0
+*/
+
+/* css Index
+-------------------------
+1. Theme_default_css
+2. header_css
+3. slider_css
+4. about_area_css
+5. features_box_css
+6. deportment_css
+7. team_css
+8. video_area_css
+9. counter_css
+10. footer_css
+*/
+
+/* 1. Theme_default_css */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+.img {
+	max-width: 100%;
+	transition: all 0.3s ease-out 0s;
+}
+.f_left {
+	float: left;
+}
+.f_right {
+	float: right;
+}
+.fix {
+	overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	color: blueviolet;
+	margin-top: 0px;
+	font-weight: 400;
+	text-transform: normal;
+}
+
+/* 2. header_css */
+
+
+
+
+
+
+
+
+
+
+/* 3. slider_css */
+/* 4. about_area_css */
+/* 5. features_box_css */
+/* 6. deportment_css */
+/* 7. team_css */
+/* 8. video_area_css */
+/* 9. counter_css */
+/* 10. footer_css */
