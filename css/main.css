@@ -7,6 +7,7 @@ Template: Appri
 Version: 1.0.0
 */
 
+
 /* css Index
 -------------------------
 1. Theme_default_css
@@ -21,26 +22,32 @@ Version: 1.0.0
 10. footer_css
 */
 
+
 /* 1. Theme_default_css */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,500,700&display=swap');
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,500,700&display=swap");
 body {
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;
-	font-style: normal;
-	color: #909299
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: #909299;
 }
+
 .img {
-	max-width: 100%;
-	transition: all 0.3s ease-out 0s;
+    max-width: 100%;
+    transition: all 0.3s ease-out 0s;
 }
+
 .f_left {
-	float: left;
+    float: left;
 }
+
 .f_right {
-	float: right;
+    float: right;
 }
+
 .fix {
-	overflow: hidden;
+    overflow: hidden;
 }
 
 h1,
@@ -49,31 +56,38 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Open Sans', sans-serif;
-	font-weight: normal;
-	font-style: normal;
-	color: #393542;
-	margin-top: 0px;
-	font-weight: 400;
-	text-transform: normal;
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: #393542;
+    margin-top: 0px;
+    font-weight: 400;
+    text-transform: normal;
 }
+
 
 /* 2. header_css */
 
 
-
-
-
-
-
-
-
-
 /* 3. slider_css */
+
+
 /* 4. about_area_css */
+
+
 /* 5. features_box_css */
+
+
 /* 6. deportment_css */
+
+
 /* 7. team_css */
+
+
 /* 8. video_area_css */
+
+
 /* 9. counter_css */
+
+
 /* 10. footer_css */
