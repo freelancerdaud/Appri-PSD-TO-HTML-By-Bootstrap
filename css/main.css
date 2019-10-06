@@ -22,11 +22,12 @@ Version: 1.0.0
 */
 
 /* 1. Theme_default_css */
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,500,700&display=swap');
 body {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-weight: normal;
 	font-style: normal;
+	color: #909299
 }
 .img {
 	max-width: 100%;
@@ -48,10 +49,10 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-style: normal;
-	color: blueviolet;
+	color: #393542;
 	margin-top: 0px;
 	font-weight: 400;
 	text-transform: normal;
